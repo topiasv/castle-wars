@@ -1,0 +1,266 @@
+[
+  {
+    "name": "wall",
+    "suitType": "build",
+    "cost": 1,
+    "effects": {
+      "wall": 3
+    }
+  },
+  {
+    "name": "base",
+    "suitType": "build",
+    "cost": 1,
+    "effects": {
+      "castle": 2
+    }
+  },
+  {
+    "name": "defence",
+    "suitType": "build",
+    "cost": 3,
+    "effects": {
+      "wall": 6
+    }
+  },
+  {
+    "name": "reserve",
+    "suitType": "build",
+    "cost": 3,
+    "effects": {
+      "castle": 8,
+      "wall": -4
+    }
+  },
+  {
+    "name": "tower",
+    "suitType": "build",
+    "cost": 5,
+    "effects": {
+      "castle": 5
+    }
+  },
+  {
+    "name": "school",
+    "suitType": "build",
+    "cost": 8,
+    "effects": {
+      "builders": 1
+    }
+  },
+  {
+    "name": "wain",
+    "suitType": "build",
+    "cost": 10,
+    "effects": {
+      "castle": 8,
+      "enemyCastle": -4
+    }
+  },
+  {
+    "name": "fence",
+    "suitType": "build",
+    "cost": 12,
+    "effects": {
+      "wall": 22
+    }
+  },
+  {
+    "name": "fort",
+    "suitType": "build",
+    "cost": 18,
+    "effects": {
+      "castle": 20
+    }
+  },
+  {
+    "name": "babylon",
+    "suitType": "build",
+    "cost": 39,
+    "effects": {
+      "castle": 32
+    }
+  },
+  {
+    "name": "archer",
+    "suitType": "attack",
+    "cost": 1,
+    "effects": {
+      "attack": 2
+    }
+  },
+  {
+    "name": "knight",
+    "suitType": "attack",
+    "cost": 2,
+    "effects": {
+      "attack": 3
+    }
+  },
+  {
+    "name": "rider",
+    "suitType": "attack",
+    "cost": 2,
+    "effects": {
+      "attack": 4
+    }
+  },
+  {
+    "name": "platoon",
+    "suitType": "attack",
+    "cost": 4,
+    "effects": {
+      "attack": 6
+    }
+  },
+  {
+    "name": "recruit",
+    "suitType": "attack",
+    "cost": 8,
+    "effects": {
+      "soldiers": 1
+    }
+  },
+  {
+    "name": "attack",
+    "suitType": "attack",
+    "cost": 10,
+    "effects": {
+      "attack": 12
+    }
+  },
+  {
+    "name": "saboteur",
+    "suitType": "attack",
+    "cost": 12,
+    "effects": {
+      "enemyBricks": 4,
+      "enemyWeapons": 4,
+      "enemyCrystals": 4
+    }
+  },
+  {
+    "name": "thief",
+    "suitType": "attack",
+    "cost": 15,
+    "effects": {
+      "bricks": 5,
+      "weapons": 5,
+      "crystals": 5,
+      "enemyBricks": 5,
+      "enemyWeapons": 5,
+      "enemyCrystals": 5
+    }
+  },
+  {
+    "name": "swat",
+    "suitType": "attack",
+    "cost": 18,
+    "effects": {
+      "enemyCastle": 10
+    }
+  },
+  {
+    "name": "banshee",
+    "suitType": "attack",
+    "cost": 28,
+    "effects": {
+      "attack": 32
+    }
+  },
+  {
+    "name": "conjureBricks",
+    "suitType": "magic",
+    "cost": 4,
+    "effects": {
+      "bricks": 8
+    }
+  },
+  {
+    "name": "conjureCrystals",
+    "suitType": "magic",
+    "cost": 4,
+    "effects": {
+      "crystals": 8
+    }
+  },
+  {
+    "name": "conjureWeapons",
+    "suitType": "magic",
+    "cost": 4,
+    "effects": {
+      "weapons": 8
+    }
+  },
+  {
+    "name": "crushBricks",
+    "suitType": "magic",
+    "cost": 4,
+    "effects": {
+      "enemyBricks": 8
+    }
+  },
+  {
+    "name": "crushCrystals",
+    "suitType": "magic",
+    "cost": 4,
+    "effects": {
+      "enemyCrystals": 8
+    }
+  },
+  {
+    "name": "crushWeapons",
+    "suitType": "magic",
+    "cost": 4,
+    "effects": {
+      "enemyWeapons": 8
+    }
+  },
+  {
+    "name": "sorcerer",
+    "suitType": "magic",
+    "cost": 8,
+    "effects": {
+      "sorcerer": 1
+    }
+  },
+  {
+    "name": "dragon",
+    "suitType": "magic",
+    "cost": 21,
+    "effects": {
+      "attack": 25
+    }
+  },
+  {
+    "name": "pixies",
+    "suitType": "magic",
+    "cost": 22,
+    "effects": {
+      "castle": 22
+    }
+  },
+  {
+    "name": "curse",
+    "suitType": "magic",
+    "cost": 45,
+    "effects": {
+      "castle": 1,
+      "wall": 1,
+      "builders": 1,
+      "bricks": 1,
+      "soldiers": 1,
+      "weapons": 1,
+      "sorcerer": 1,
+      "crystals": 1,
+      "enemyCastle": 1,
+      "enemyWall": 1,
+      "enemyBuilders": 1,
+      "enemyBricks": 1,
+      "enemySoldiers": 1,
+      "enemyWeapons": 1,
+      "enemySorcerers": 1,
+      "enemyCrystals": 1
+    }
+  },
+]

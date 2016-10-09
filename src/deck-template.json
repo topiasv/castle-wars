@@ -1,0 +1,122 @@
+[
+  {
+  	"name": "wall",
+  	"amount": 5
+  },
+  {
+  	"name": "base",
+  	"amount": 5
+  },
+  {
+  	"name": "defence",
+  	"amount": 5
+  },
+  {
+  	"name": "reserve",
+  	"amount": 5
+  },
+  {
+  	"name": "tower",
+  	"amount": 5
+  },
+  {
+  	"name": "school",
+  	"amount": 5
+  },
+  {
+  	"name": "wain",
+  	"amount": 5
+  },
+  {
+  	"name": "fence",
+  	"amount": 5
+  },
+  {
+  	"name": "fort",
+  	"amount": 5
+  },
+  {
+  	"name": "babylon",
+  	"amount": 5
+  },
+  {
+  	"name": "archer",
+  	"amount": 5
+  },
+  {
+  	"name": "knight",
+  	"amount": 5
+  },
+  {
+  	"name": "rider",
+  	"amount": 5
+  },
+  {
+  	"name": "platoon",
+  	"amount": 5
+  },
+  {
+  	"name": "recruit",
+  	"amount": 5
+  },
+  {
+  	"name": "attack",
+  	"amount": 5
+  },
+  {
+  	"name": "saboteur",
+  	"amount": 5
+  },
+  {
+  	"name": "thief",
+  	"amount": 5
+  },
+  {
+  	"name": "swat",
+  	"amount": 5
+  },
+  {
+  	"name": "banshee",
+  	"amount": 5
+  },
+  {
+  	"name": "conjureBricks",
+  	"amount": 5
+  },
+  {
+  	"name": "conjureCrystals",
+  	"amount": 5
+  },
+  {
+  	"name": "conjureWeapons",
+  	"amount": 5
+  },
+  {
+  	"name": "crushBricks",
+  	"amount": 5
+  },
+  {
+  	"name": "crushCrystals",
+  	"amount": 5
+  },
+  {
+  	"name": "crushWeapons",
+  	"amount": 5
+  },
+  {
+  	"name": "sorcerer",
+  	"amount": 5
+  },
+  {
+  	"name": "dragon",
+  	"amount": 5
+  },
+  {
+  	"name": "pixies",
+  	"amount": 5
+  },
+  {
+  	"name": "curse",
+  	"amount": 5
+  },
+]
